@@ -5,6 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<h1>Hello JSTL Internationalizationnnnnnnnnn</h1>
 <meta charset="UTF-8">
 <title>Internationalization (i18n) Tag</title>
 <link rel = "stylesheet" href="style.jstl">
